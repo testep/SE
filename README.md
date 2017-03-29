@@ -12,5 +12,4 @@ Group 6 - Kindergarden : https://github.com/msinaj/Kindergarden <br />
 
 
 CEN Projects
-
-Group 2 - EHMS : https://github.com/eberhani/EHMS <br />
+Group 1 - InsMan : https://github.com/elisseiti/InsMan/
