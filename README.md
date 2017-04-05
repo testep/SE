@@ -13,6 +13,7 @@ Group 6 - Kindergarden : https://github.com/msinaj/Kindergarden <br />
 
 CEN Projects
 Group 1 - InsMan : https://github.com/elisseiti/InsMan/ <br/>
+Group 2 - EHMS : https://github.com/eberhani/EHMS/ <br/>
 Group 4 - TOPD: https://github.com/gzeqiri/TOPD/ </br>
 Group 5 - jobify.al: https://github.com/ehajdini14/jobify.al <br />
 
